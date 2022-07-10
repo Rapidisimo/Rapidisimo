@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Josué Rodriguez, a creative frontend developer.
+
+I'll be back later to fill this out more!
+
+
+
 <!--
 **Rapidisimo/Rapidisimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
