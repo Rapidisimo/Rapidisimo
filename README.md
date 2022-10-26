@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-I'm Josué Rodriguez, a creative frontend developer.
-
-I'll be back later to fill this out more!
+Hello! I'm Josué Rodriguez, a front-end developer.
+I love to approach things with both creativity and logic, but most of all, with an open mind.
 
 
 
